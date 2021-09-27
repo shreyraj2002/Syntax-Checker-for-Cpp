@@ -1,0 +1,2 @@
+# Syntax-Checker-for-Cpp
+This program will read another ( .cpp ) file and gives complete information about the code in that file. For example number of int, floats, char etc variables used, displays if there is an error in code in terms of brackets, how many functions are used etc. This useful program can be used by every C/C++ programmer to check their program’s code in a short time. The whole project is designed in ‘C’ Programming language, different variables and strings have been used for the development of this project.
